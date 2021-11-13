@@ -1953,3 +1953,6 @@ Continuar: No guardar este activo en concreto.\
 [2021.11.13-23.13.59:314][450]LogSavePackage: Moving '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/Mueble6A376EF84C4D4E7C2BBC4F863D6DA3DE.tmp' to '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/misBlueprints/Mueble.uasset'
 [2021.11.13-23.13.59:361][450]AssetCheck: New page: Asset Save: Mueble
 [2021.11.13-23.13.59:361][450]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/misBlueprints/Mueble.Mueble
+[2021.11.13-23.15.45:726][886]LogSavePackage: Moving '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/MuebleD64F628C4C8B9BA3F78323BB87C28725.tmp' to '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/misBlueprints/Mueble.uasset'
+[2021.11.13-23.15.45:774][886]AssetCheck: New page: Asset Save: Mueble
+[2021.11.13-23.15.45:774][886]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/misBlueprints/Mueble.Mueble
