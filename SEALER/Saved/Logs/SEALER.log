@@ -1956,3 +1956,148 @@ Continuar: No guardar este activo en concreto.\
 [2021.11.13-23.15.45:726][886]LogSavePackage: Moving '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/MuebleD64F628C4C8B9BA3F78323BB87C28725.tmp' to '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/misBlueprints/Mueble.uasset'
 [2021.11.13-23.15.45:774][886]AssetCheck: New page: Asset Save: Mueble
 [2021.11.13-23.15.45:774][886]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/misBlueprints/Mueble.Mueble
+[2021.11.13-23.17.25:290][162]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2021.11.13-23.17.25:398][162]LogSavePackage: Moving '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/FirstPersonExampleMap_Auto2F98086AA41E4EACC2090EC882025F9C5.tmp' to '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2021.11.13-23.17.25:465][162]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.252
+[2021.11.13-23.17.25:465][162]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.252
+[2021.11.13-23.18.58:261][696]LogContentBrowser: Deferred new asset file creation: Mueble1
+[2021.11.13-23.18.58:298][696]LogContentBrowser: Creating deferred item: Mueble1
+[2021.11.13-23.19.06:981][855]LogContentBrowser: Attempting asset rename: Mueble1 -> falsomueble
+[2021.11.13-23.19.07:191][855]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2021.11.13-23.19.07:231][855]LogContentBrowser: End creating deferred item Mueble1
+[2021.11.13-23.19.12:356][907]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/misBlueprints/falsomueble.falsomueble
+[2021.11.13-23.19.54:155][546]LogSavePackage: Moving '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/falsomueble7FCAACDC46019ABAE8272CBBD1921415.tmp' to '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/misBlueprints/falsomueble.uasset'
+[2021.11.13-23.19.54:201][546]AssetCheck: New page: Asset Save: falsomueble
+[2021.11.13-23.19.54:201][546]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/misBlueprints/falsomueble.falsomueble
+[2021.11.13-23.20.23:681][ 89]LogEditorViewport: Clicking on Actor (LMB): Mueble_C (Mueble)
+[2021.11.13-23.20.27:515][172]LogEditorViewport: Clicking on Actor (LMB): falsomueble_C (falsomueble)
+[2021.11.13-23.20.31:965][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.13-23.20.33:652][302]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.13-23.20.33:683][302]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.13-23.20.33:684][302]LogPlayLevel: [PlayLevel] Compiling falsomueble before play...
+[2021.11.13-23.20.33:866][302]LogUObjectHash: Compacting FUObjectHashTables data took   9.24ms
+[2021.11.13-23.20.33:869][302]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (1 blueprints)
+[2021.11.13-23.20.33:870][302]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (14 nov. 2021 1:20:33)
+[2021.11.13-23.20.33:874][302]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.13-23.20.33:908][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034253s)
+[2021.11.13-23.20.33:910][302]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.13-23.20.33:911][302]LogPlayLevel: PIE: World Init took: (0.002799s)
+[2021.11.13-23.20.33:911][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037507s)
+[2021.11.13-23.20.33:982][302]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2021.11.13-23.20.33:985][302]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.11.13-23.20.33:985][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.13-23.20.33:985][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.13-23.20.33:985][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.13-23.20.33:985][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.13-23.20.33:985][302]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.13-23.20.33:985][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.13-23.20.33:985][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.13-23.20.33:985][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.13-23.20.33:986][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.13-23.20.33:986][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.13-23.20.33:986][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.13-23.20.33:986][302]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.13-23.20.33:994][302]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.13-23.20.33:994][302]LogAudioMixer: Display: 1: FrontRight
+[2021.11.13-23.20.34:010][302]LogAudioMixer: Display: Using Audio Device Altavoces (Conexant SmartAudio HD)
+[2021.11.13-23.20.34:011][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.13-23.20.34:011][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.13-23.20.34:011][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.13-23.20.34:013][302]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.13-23.20.34:013][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.13-23.20.34:013][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.13-23.20.34:015][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.13-23.20.34:016][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.13-23.20.34:016][302]LogInit: FAudioDevice initialized.
+[2021.11.13-23.20.34:016][302]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonExampleMap'.
+[2021.11.13-23.20.34:029][302]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.13-23.20.34:034][302]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.11.14-00.20.34
+[2021.11.13-23.20.34:035][302]LogWorld: Bringing up level for play took: 0.004701
+[2021.11.13-23.20.34:035][302]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.11.13-23.20.34:041][302]PIE: El servidor ha iniciado la sesión
+[2021.11.13-23.20.34:042][302]PIE: Play in editor total start time 0,371 seconds.
+[2021.11.13-23.20.43:129][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.13-23.20.43:129][525]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.13-23.20.43:130][525]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.20.43:130][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.20.43:189][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.13-23.20.43:232][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.20.43:294][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.13-23.20.43:295][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.13-23.20.43:297][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.13-23.20.43:312][525]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2021.11.13-23.20.43:393][526]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.11.13-23.21.01:474][833]LogContentBrowser: Attempting asset rename: falsomueble -> muebledemonio
+[2021.11.13-23.21.01:634][833]LogMetaData: Removing '/Game/FirstPersonBP/misBlueprints/muebledemonio.SKEL_muebledemonio_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/misBlueprints/falsomueble.PackageMetaData'
+[2021.11.13-23.21.01:634][833]LogMetaData: Removing '/Game/FirstPersonBP/misBlueprints/muebledemonio.SKEL_muebledemonio_C:BndEvt__Mueble_Colisión con mueble_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/FirstPersonBP/misBlueprints/falsomueble.PackageMetaData'
+[2021.11.13-23.21.01:634][833]LogMetaData: Removing '/Game/FirstPersonBP/misBlueprints/muebledemonio.SKEL_muebledemonio_C:BndEvt__Mueble_Colisión con mueble_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/FirstPersonBP/misBlueprints/falsomueble.PackageMetaData'
+[2021.11.13-23.21.01:634][833]LogMetaData: Removing '/Game/FirstPersonBP/misBlueprints/muebledemonio.SKEL_muebledemonio_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/misBlueprints/falsomueble.PackageMetaData'
+[2021.11.13-23.21.01:634][833]LogMetaData: Removing '/Game/FirstPersonBP/misBlueprints/muebledemonio.SKEL_muebledemonio_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FirstPersonBP/misBlueprints/falsomueble.PackageMetaData'
+[2021.11.13-23.21.01:634][833]LogMetaData: Removing '/Game/FirstPersonBP/misBlueprints/muebledemonio.SKEL_muebledemonio_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/misBlueprints/falsomueble.PackageMetaData'
+[2021.11.13-23.21.01:634][833]LogMetaData: Removing '/Game/FirstPersonBP/misBlueprints/muebledemonio.SKEL_muebledemonio_C' ref from Metadata '/Game/FirstPersonBP/misBlueprints/falsomueble.PackageMetaData'
+[2021.11.13-23.21.01:634][833]LogMetaData: Removing '/Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C' ref from Metadata '/Game/FirstPersonBP/misBlueprints/falsomueble.PackageMetaData'
+[2021.11.13-23.21.01:839][833]LogSavePackage: Moving '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/muebledemonio6808A9794C506B0303707FB755802002.tmp' to '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/misBlueprints/muebledemonio.uasset'
+[2021.11.13-23.21.02:085][833]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2021.11.13-23.21.02:176][833]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.11.13-23.21.02:240][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.11.13-23.21.02:507][833]AssetCheck: New page: Asset Save: muebledemonio
+[2021.11.13-23.21.02:507][833]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio
+[2021.11.13-23.21.05:101][867]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (falsomueble)
+[2021.11.13-23.22.35:100][371]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.13-23.22.35:147][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.13-23.22.35:147][371]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (14 nov. 2021 1:22:35)
+[2021.11.13-23.22.35:148][371]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.13-23.22.35:184][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035980s)
+[2021.11.13-23.22.35:189][371]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.13-23.22.35:190][371]LogPlayLevel: PIE: World Init took: (0.006127s)
+[2021.11.13-23.22.35:190][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.042657s)
+[2021.11.13-23.22.35:271][371]LogUObjectHash: Compacting FUObjectHashTables data took   9.40ms
+[2021.11.13-23.22.35:276][371]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.11.13-23.22.35:276][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.13-23.22.35:277][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.13-23.22.35:277][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.13-23.22.35:277][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.13-23.22.35:277][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.13-23.22.35:277][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.13-23.22.35:277][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.13-23.22.35:277][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.13-23.22.35:278][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.13-23.22.35:278][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.13-23.22.35:278][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.13-23.22.35:278][371]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.13-23.22.35:286][371]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.13-23.22.35:286][371]LogAudioMixer: Display: 1: FrontRight
+[2021.11.13-23.22.35:302][371]LogAudioMixer: Display: Using Audio Device Altavoces (Conexant SmartAudio HD)
+[2021.11.13-23.22.35:303][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.13-23.22.35:303][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.13-23.22.35:303][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.13-23.22.35:305][371]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.13-23.22.35:305][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.13-23.22.35:305][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.13-23.22.35:307][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.13-23.22.35:308][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.13-23.22.35:308][371]LogInit: FAudioDevice initialized.
+[2021.11.13-23.22.35:308][371]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonExampleMap'.
+[2021.11.13-23.22.35:323][371]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.13-23.22.35:328][371]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.11.14-00.22.35
+[2021.11.13-23.22.35:328][371]LogWorld: Bringing up level for play took: 0.004080
+[2021.11.13-23.22.35:329][371]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.11.13-23.22.35:335][371]PIE: El servidor ha iniciado la sesión
+[2021.11.13-23.22.35:337][371]PIE: Play in editor total start time 0,215 seconds.
+[2021.11.13-23.23.00:141][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.13-23.23.00:141][ 19]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.13-23.23.00:141][ 19]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.23.00:142][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.23.00:198][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.13-23.23.00:221][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.23.00:284][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.13-23.23.00:285][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.13-23.23.00:287][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.13-23.23.00:302][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2021.11.13-23.23.00:372][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.11.13-23.23.08:589][171]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2021.11.13-23.23.08:670][171]LogSavePackage: Moving '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/FirstPersonExampleMap3D01100642F14BB13D0610912F463B6F.tmp' to '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.13-23.23.10:620][171]LogSavePackage: Moving '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/FirstPersonExampleMap_BuiltData7631594845C4184D1B41A0A14B9BB8E7.tmp' to '../../../../../../Users/meep moop/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.13-23.23.10:672][171]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.13-23.23.10:673][171]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.13-23.23.10:673][171]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
