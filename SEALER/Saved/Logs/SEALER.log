@@ -1304,3 +1304,1451 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.17-00.57.16:430][488]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.145
 [2021.11.17-00.57.16:471][488]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2021.11.17-00.57.16:472][488]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.17-01.08.26:441][771]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2021.11.17-01.08.26:805][771]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0031 seconds. Added 126 classes and 0 folders.
+[2021.11.17-01.09.02:636][860]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.09.02:636][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.09.02:737][860]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2021.11.17-01.09.03:428][860]LogBlueprintEditor: Perf: 0.7 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.11.17-01.09.03:428][860]LogBlueprintEditor: Perf: 0.6 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.11.17-01.09.04:311][860]LogSlate: Took 0.003435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.17-01.09.30:742][236]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.17-01.10.25:939][508]LogSlate: Took 0.004024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.17-01.14.04:067][104]LogSlate: Took 0.012475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.17-01.14.04:634][105]BlueprintLog: New page: Compile FirstPersonGameMode
+[2021.11.17-01.14.04:742][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.11.17-01.14.09:136][357]BlueprintLog: New page: Compile FirstPersonGameMode
+[2021.11.17-01.14.09:211][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.11.17-01.14.39:353][516]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.11.17-01.14.39:357][516]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.071
+[2021.11.17-01.14.39:358][516]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode] ([2] browsable assets)...
+[2021.11.17-01.14.39:358][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode]
+[2021.11.17-01.14.39:386][516]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/FirstPersonGameMode_Auto47C18F86F48CEE45FE7C6BAAE996680A5.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonGameMode_Auto4.uasset'
+[2021.11.17-01.14.39:389][516]LogFileHelpers: Auto-saving content packages took 0.033
+[2021.11.17-01.28.48:692][223]BlueprintLog: New page: Compile FirstPersonGameMode
+[2021.11.17-01.28.48:793][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.11.17-01.29.32:150][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.11.17-01.29.32:151][563]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.046
+[2021.11.17-01.29.32:152][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode] ([2] browsable assets)...
+[2021.11.17-01.29.32:152][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode]
+[2021.11.17-01.29.32:184][563]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/FirstPersonGameMode_Auto53F45702F48C970BD43A8A19ED4D324A8.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonGameMode_Auto5.uasset'
+[2021.11.17-01.29.32:185][563]LogFileHelpers: Auto-saving content packages took 0.034
+[2021.11.17-01.32.13:425][389]BlueprintLog: New page: Compile FirstPersonGameMode
+[2021.11.17-01.32.13:500][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.11.17-01.37.09:311][346]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio8)
+[2021.11.17-01.37.12:309][490]Cmd: EDIT COPY
+[2021.11.17-01.37.13:302][539]Cmd: EDIT PASTE
+[2021.11.17-01.37.32:769][403]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.17-01.37.32:784][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.17-01.37.32:785][403]PIE: New page: PIE session: FirstPersonExampleMap (17 nov. 2021 3:37:32)
+[2021.11.17-01.37.32:785][403]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.17-01.37.32:815][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029827s)
+[2021.11.17-01.37.32:823][403]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.17-01.37.32:823][403]LogPlayLevel: PIE: World Init took: (0.008156s)
+[2021.11.17-01.37.32:823][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.038319s)
+[2021.11.17-01.37.32:871][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.11.17-01.37.32:873][403]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.17-01.37.32:873][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.17-01.37.32:873][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.17-01.37.32:873][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.17-01.37.32:873][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.17-01.37.32:873][403]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.17-01.37.32:873][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.17-01.37.32:873][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.17-01.37.32:873][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.17-01.37.32:874][403]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.17-01.37.32:874][403]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.17-01.37.32:874][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.17-01.37.32:874][403]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.17-01.37.32:881][403]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.17-01.37.32:881][403]LogAudioMixer: Display: 1: FrontRight
+[2021.11.17-01.37.32:910][403]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.17-01.37.32:911][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.17-01.37.32:911][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.17-01.37.32:911][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.17-01.37.32:913][403]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.17-01.37.32:913][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.17-01.37.32:913][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.17-01.37.32:915][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.17-01.37.32:915][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.17-01.37.32:915][403]LogInit: FAudioDevice initialized.
+[2021.11.17-01.37.32:915][403]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2021.11.17-01.37.32:934][403]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.17-01.37.32:940][403]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.11.17-02.37.32
+[2021.11.17-01.37.32:940][403]LogWorld: Bringing up level for play took: 0.004530
+[2021.11.17-01.37.32:940][403]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.11.17-01.37.32:956][403]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.17-01.37.32:956][403]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.17-01.37.32:956][403]PIE: Server logged in
+[2021.11.17-01.37.32:957][403]PIE: Play in editor total start time 0,177 seconds.
+[2021.11.17-01.37.35:976][579]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.17-01.37.35:976][579]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.17-01.37.43:800][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-01.37.43:801][ 46]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.17-01.37.43:801][ 46]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.37.43:801][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_14
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:802][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:802][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_14
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:802][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:802][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_15
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:802][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:802][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_15
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:803][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:803][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.37.43:803][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:803][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:803][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:803][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:803][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:803][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.37.43:804][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:804][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:804][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:804][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio8_26
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.37.43:804][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:804][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:804][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:804][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.37.43:804][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:804][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:804][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:805][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio6_17
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.37.43:805][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:805][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.37.43:805][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:805][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:805][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:805][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:805][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:805][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:806][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:806][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.37.43:806][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:806][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:806][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:806][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio_2
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.37.43:806][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:806][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_18
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:806][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:807][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_18
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:807][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:807][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_19
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:807][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:807][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_19
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:808][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:808][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_20
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:808][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:808][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_20
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:808][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:808][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:809][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:809][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Mueble_C_8
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:809][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:809][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:809][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:809][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:809][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:809][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Mueble_C_8
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:809][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:809][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:810][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:810][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_22
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:810][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:810][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_22
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:810][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:811][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:811][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:811][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:811][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:811][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:811][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:811][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:811][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:812][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_25
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:812][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:812][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_25
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:812][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:812][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_26
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:812][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:813][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_26
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:813][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:813][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_27
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:813][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:813][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_27
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:813][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:813][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_27
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.37.43:813][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:813][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio5_14
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.37.43:814][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.37.43:814][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.37.43:830][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.17-01.37.43:848][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.37.43:887][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.17-01.37.43:888][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.37.43:889][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.37.43:894][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-01.37.43:900][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.11.17-01.37.44:017][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.11.17-01.37.54:066][433]Cmd: EDIT COPY
+[2021.11.17-01.37.54:307][441]Cmd: EDIT PASTE
+[2021.11.17-01.38.01:840][681]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.17-01.38.01:855][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.17-01.38.01:855][681]PIE: New page: PIE session: FirstPersonExampleMap (17 nov. 2021 3:38:01)
+[2021.11.17-01.38.01:855][681]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.17-01.38.01:881][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025057s)
+[2021.11.17-01.38.01:884][681]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.17-01.38.01:893][681]LogPlayLevel: PIE: World Init took: (0.012189s)
+[2021.11.17-01.38.01:893][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037640s)
+[2021.11.17-01.38.01:932][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.11.17-01.38.01:937][681]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.17-01.38.01:938][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.17-01.38.01:938][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.17-01.38.01:938][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.17-01.38.01:938][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.17-01.38.01:938][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.17-01.38.01:938][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.17-01.38.01:938][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.17-01.38.01:938][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.17-01.38.01:939][681]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.17-01.38.01:939][681]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.17-01.38.01:939][681]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.17-01.38.01:939][681]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.17-01.38.01:944][681]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.17-01.38.01:944][681]LogAudioMixer: Display: 1: FrontRight
+[2021.11.17-01.38.01:972][681]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.17-01.38.01:972][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.17-01.38.01:972][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.17-01.38.01:972][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.17-01.38.01:975][681]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.17-01.38.01:975][681]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.17-01.38.01:975][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.17-01.38.01:977][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.17-01.38.01:977][681]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.17-01.38.01:977][681]LogInit: FAudioDevice initialized.
+[2021.11.17-01.38.01:977][681]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2021.11.17-01.38.01:992][681]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.17-01.38.01:995][681]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.11.17-02.38.01
+[2021.11.17-01.38.01:996][681]LogWorld: Bringing up level for play took: 0.002857
+[2021.11.17-01.38.01:996][681]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.11.17-01.38.02:010][681]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.17-01.38.02:010][681]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.17-01.38.02:011][681]PIE: Server logged in
+[2021.11.17-01.38.02:012][681]PIE: Play in editor total start time 0,16 seconds.
+[2021.11.17-01.38.07:756][910]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.17-01.38.07:756][910]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.17-01.38.10:551][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-01.38.10:551][ 26]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.17-01.38.10:552][ 26]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.38.10:552][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_14
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:552][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:552][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_14
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:553][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:553][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_15
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:553][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:553][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_15
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:553][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:553][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.38.10:554][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:554][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:554][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:554][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:554][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:554][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.38.10:554][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:554][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:555][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:555][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio8_26
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.38.10:555][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:555][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:555][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:555][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.38.10:555][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:555][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:555][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:556][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio6_17
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.38.10:556][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:556][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.38.10:556][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:556][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:556][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:556][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:557][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:557][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:557][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:557][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.38.10:557][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:557][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_18
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:557][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:558][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_18
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:558][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:558][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_19
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:558][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:558][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_19
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:559][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:559][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_20
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:559][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:559][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_20
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:559][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:559][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:560][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:560][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Mueble_C_8
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:560][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:560][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:560][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:560][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:560][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:560][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Mueble_C_8
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:560][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:560][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:560][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:561][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_22
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:561][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:561][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_22
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:561][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:561][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:561][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:561][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:562][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:562][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:562][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:562][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio4_11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.38.10:562][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:562][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:562][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:563][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:563][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:563][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:563][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:563][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio4_11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.38.10:563][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:563][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_25
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:563][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:563][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_25
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:564][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:564][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_26
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:564][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:564][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_26
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:564][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:564][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_27
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:564][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:565][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_27
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.38.10:565][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.38.10:565][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.38.10:584][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.17-01.38.10:597][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.38.10:631][ 26]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.17-01.38.10:632][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.38.10:633][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.38.10:638][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-01.38.10:643][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.11.17-01.38.10:745][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.11.17-01.38.26:473][950]BlueprintLog: New page: Compile FirstPersonGameMode
+[2021.11.17-01.38.26:539][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.11.17-01.38.29:693][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.17-01.38.29:708][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.17-01.38.29:708][ 78]PIE: New page: PIE session: FirstPersonExampleMap (17 nov. 2021 3:38:29)
+[2021.11.17-01.38.29:708][ 78]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.17-01.38.29:733][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024462s)
+[2021.11.17-01.38.29:735][ 78]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.17-01.38.29:735][ 78]LogPlayLevel: PIE: World Init took: (0.001951s)
+[2021.11.17-01.38.29:735][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026710s)
+[2021.11.17-01.38.29:775][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.11.17-01.38.29:777][ 78]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.11.17-01.38.29:777][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.17-01.38.29:777][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.17-01.38.29:777][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.17-01.38.29:777][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.17-01.38.29:777][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.17-01.38.29:777][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.17-01.38.29:777][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.17-01.38.29:777][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.17-01.38.29:777][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.17-01.38.29:778][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.17-01.38.29:778][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.17-01.38.29:778][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.17-01.38.29:783][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.17-01.38.29:783][ 78]LogAudioMixer: Display: 1: FrontRight
+[2021.11.17-01.38.29:811][ 78]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.17-01.38.29:811][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.17-01.38.29:811][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.17-01.38.29:811][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.17-01.38.29:812][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.17-01.38.29:812][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.17-01.38.29:812][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.17-01.38.29:814][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.17-01.38.29:814][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.17-01.38.29:814][ 78]LogInit: FAudioDevice initialized.
+[2021.11.17-01.38.29:814][ 78]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2021.11.17-01.38.29:824][ 78]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.17-01.38.29:827][ 78]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.11.17-02.38.29
+[2021.11.17-01.38.29:828][ 78]LogWorld: Bringing up level for play took: 0.003008
+[2021.11.17-01.38.29:828][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.11.17-01.38.29:842][ 78]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.17-01.38.29:842][ 78]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.17-01.38.29:842][ 78]PIE: Server logged in
+[2021.11.17-01.38.29:843][ 78]PIE: Play in editor total start time 0,138 seconds.
+[2021.11.17-01.38.33:030][264]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.17-01.38.33:030][264]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.17-01.39.06:661][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-01.39.06:661][279]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.17-01.39.06:661][279]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.39.06:662][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_14
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:662][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:662][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_14
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:662][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:663][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_15
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:663][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:663][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_15
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:663][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:663][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:663][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:663][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_16
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:664][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:664][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:664][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio8_26
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.39.06:664][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:664][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:664][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:664][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:664][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:665][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_18
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:665][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:665][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_18
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:665][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:665][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_19
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:665][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:666][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_19
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:666][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:666][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_20
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:666][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:666][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_20
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:666][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:666][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:667][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:667][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Mueble_C_8
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:667][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:667][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:667][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:667][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:667][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:667][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Mueble_C_8
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:667][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:667][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_21
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:667][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:668][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_22
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:668][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:668][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_22
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:669][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:669][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:669][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:669][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:669][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:669][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:669][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:670][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio4_11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.39.06:670][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:670][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:670][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:670][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:670][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:670][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:670][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:670][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio4_11
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.39.06:671][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:671][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_25
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:671][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:671][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_25
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:671][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:671][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_26
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:671][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:672][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_26
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:672][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:672][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_27
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:672][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:672][279]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_27
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.39.06:672][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.39.06:672][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.39.06:691][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.17-01.39.06:705][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.39.06:741][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.17-01.39.06:741][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.39.06:742][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.39.06:747][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-01.39.06:752][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.11.17-01.39.06:852][280]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.11.17-01.39.22:805][894]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/misBlueprints/Mueble.Mueble
+[2021.11.17-01.39.46:401][979]BlueprintLog: New page: Compile Mueble
+[2021.11.17-01.39.46:548][979]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2021.11.17-01.39.52:383][272]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.17-01.39.52:400][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.17-01.39.52:400][272]PIE: New page: PIE session: FirstPersonExampleMap (17 nov. 2021 3:39:52)
+[2021.11.17-01.39.52:401][272]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.17-01.39.52:424][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023528s)
+[2021.11.17-01.39.52:426][272]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.17-01.39.52:426][272]LogPlayLevel: PIE: World Init took: (0.001857s)
+[2021.11.17-01.39.52:426][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025684s)
+[2021.11.17-01.39.52:485][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.11.17-01.39.52:488][272]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.11.17-01.39.52:488][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.17-01.39.52:489][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.17-01.39.52:489][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.17-01.39.52:489][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.17-01.39.52:489][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.17-01.39.52:489][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.17-01.39.52:489][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.17-01.39.52:489][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.17-01.39.52:489][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.17-01.39.52:489][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.17-01.39.52:489][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.17-01.39.52:489][272]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.17-01.39.52:494][272]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.17-01.39.52:495][272]LogAudioMixer: Display: 1: FrontRight
+[2021.11.17-01.39.52:522][272]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.17-01.39.52:522][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.17-01.39.52:522][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.17-01.39.52:522][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.17-01.39.52:523][272]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.17-01.39.52:523][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.17-01.39.52:523][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.17-01.39.52:525][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.17-01.39.52:525][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.17-01.39.52:525][272]LogInit: FAudioDevice initialized.
+[2021.11.17-01.39.52:525][272]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2021.11.17-01.39.52:538][272]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.17-01.39.52:541][272]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.11.17-02.39.52
+[2021.11.17-01.39.52:541][272]LogWorld: Bringing up level for play took: 0.002872
+[2021.11.17-01.39.52:542][272]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.11.17-01.39.52:555][272]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.17-01.39.52:555][272]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.17-01.39.52:555][272]PIE: Server logged in
+[2021.11.17-01.39.52:556][272]PIE: Play in editor total start time 0,16 seconds.
+[2021.11.17-01.39.54:941][410]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.17-01.39.54:941][410]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.17-01.40.31:761][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-01.40.31:761][611]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.17-01.40.31:761][611]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.40.31:762][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_14
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:762][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:762][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_14
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:762][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:762][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_15
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:763][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:763][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_15
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:763][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:763][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:763][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:764][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:764][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	muebledemonio_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.muebledemonio8_26
+	Function /Game/FirstPersonBP/misBlueprints/muebledemonio.muebledemonio_C:ExecuteUbergraph_muebledemonio:028A
+[2021.11.17-01.40.31:764][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  muebledemonio Function:  Execute Ubergraph Muebledemonio Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:764][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:764][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:764][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_17
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:764][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:765][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_18
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:765][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:765][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_18
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:765][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:765][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_19
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:765][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:765][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_19
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:765][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:766][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_20
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:766][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:766][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_20
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:766][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:766][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:766][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Mueble_C_8
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:766][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:767][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:767][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:767][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Mueble_C_8
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:767][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:767][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:767][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_22
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:767][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:767][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_22
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:768][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:768][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:768][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:768][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_23
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:768][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:769][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:769][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:769][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_24
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:769][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:769][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_25
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:769][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:769][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_25
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:770][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:770][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_26
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:770][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:770][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_26
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:770][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:770][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_27
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:770][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:771][611]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Mueble_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Mueble_C_CHILDACTOR_27
+	Function /Game/FirstPersonBP/misBlueprints/Mueble.Mueble_C:ExecuteUbergraph_Mueble:028A
+[2021.11.17-01.40.31:771][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Mueble Function:  Execute Ubergraph Mueble Graph:  EventGraph Node:  Play Dynamic Force Feedback
+[2021.11.17-01.40.31:771][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.40.31:788][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.17-01.40.31:803][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.40.31:850][611]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.17-01.40.31:851][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.40.31:852][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.40.31:858][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-01.40.31:868][611]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2021.11.17-01.40.31:995][612]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.11.17-01.40.48:253][485]BlueprintLog: New page: Compile FirstPersonGameMode
+[2021.11.17-01.40.48:340][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.11.17-01.41.37:143][821]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio12)
+[2021.11.17-01.41.40:080][953]Cmd: DELETE
+[2021.11.17-01.41.40:080][953]Cmd: ACTOR DELETE
+[2021.11.17-01.41.40:086][953]LogEditorActor: Deleted Actor: muebledemonio_C
+[2021.11.17-01.41.40:146][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.11.17-01.41.40:147][953]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2021.11.17-01.41.41:507][ 23]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio11)
+[2021.11.17-01.41.42:080][ 50]Cmd: DELETE
+[2021.11.17-01.41.42:080][ 50]Cmd: ACTOR DELETE
+[2021.11.17-01.41.42:087][ 50]LogEditorActor: Deleted Actor: muebledemonio_C
+[2021.11.17-01.41.42:141][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.11.17-01.41.42:142][ 50]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.11.17-01.41.59:388][938]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio6)
+[2021.11.17-01.42.01:143][ 30]Cmd: EDIT COPY
+[2021.11.17-01.42.01:423][ 45]Cmd: EDIT PASTE
+[2021.11.17-01.42.11:655][583]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio4)
+[2021.11.17-01.42.12:827][644]Cmd: EDIT COPY
+[2021.11.17-01.42.13:090][658]Cmd: EDIT PASTE
+[2021.11.17-01.42.25:485][310]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.17-01.42.27:262][395]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio3)
+[2021.11.17-01.42.28:260][446]Cmd: EDIT COPY
+[2021.11.17-01.42.28:525][460]Cmd: EDIT PASTE
+[2021.11.17-01.42.33:508][720]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.17-01.42.34:957][789]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio13)
+[2021.11.17-01.42.54:402][774]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio6)
+[2021.11.17-01.42.55:389][825]Cmd: EDIT COPY
+[2021.11.17-01.42.55:709][842]Cmd: EDIT PASTE
+[2021.11.17-01.43.03:105][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.17-01.43.04:092][273]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio4)
+[2021.11.17-01.43.10:660][619]Cmd: EDIT COPY
+[2021.11.17-01.43.11:506][664]Cmd: EDIT PASTE
+[2021.11.17-01.43.24:724][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.17-01.43.47:964][489]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio)
+[2021.11.17-01.43.49:455][567]Cmd: EDIT COPY
+[2021.11.17-01.43.49:715][581]Cmd: EDIT PASTE
+[2021.11.17-01.43.59:328][ 92]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.17-01.44.08:029][525]LogEditorViewport: Clicking on Actor (LMB): muebledemonio_C (muebledemonio10)
+[2021.11.17-01.44.14:908][891]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.17-01.44.40:768][583]LogUObjectHash: Compacting FUObjectHashTables data took  24.62ms
+[2021.11.17-01.44.41:280][583]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/FirstPersonExampleMap012ACB5548B3FECF5EC4E098834BD530.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.17-01.44.58:674][583]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/FirstPersonExampleMap_BuiltData972015FE4220D43EAFF92BA00A7DEB1D.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.17-01.44.58:733][583]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.17-01.44.58:733][583]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.17-01.44.58:733][583]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.17-01.45.28:670][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.11.17-01.45.28:730][605]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/FirstPersonGameMode0262DCC748CF6E480FC0458A415AF24C.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2021.11.17-01.45.28:842][605]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Saved/Mueble36AEB34B4CE6459442FEE78620170B34.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IPMU_GrupoC/SEALER/Content/FirstPersonBP/misBlueprints/Mueble.uasset'
+[2021.11.17-01.45.28:869][605]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.17-01.45.28:869][605]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2021.11.17-01.45.28:869][605]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/misBlueprints/Mueble.Mueble
+[2021.11.17-01.45.35:427][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.11.17-01.45.35:468][838]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.35:468][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.45.35:581][838]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.17-01.45.35:581][838]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.35:581][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-01.45.35:703][838]LogSlate: Window 'SEALER - Unreal Editor' being destroyed
+[2021.11.17-01.45.36:988][839]Cmd: QUIT_EDITOR
+[2021.11.17-01.45.36:988][839]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.11.17-01.45.37:002][839]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.11.17-01.45.37:106][839]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.11.17-01.45.37:106][839]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.11.17-01.45.37:106][839]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2021.11.17-01.45.37:107][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.45.37:109][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.17-01.45.37:181][839]LogAudio: Display: Audio Device Manager Shutdown
+[2021.11.17-01.45.37:182][839]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.17-01.45.37:198][839]LogExit: Preparing to exit.
+[2021.11.17-01.45.38:184][839]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2021.11.17-01.45.38:638][839]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.38:643][839]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.38:647][839]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.38:651][839]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.38:656][839]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.38:660][839]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.38:664][839]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.38:815][839]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.17-01.45.38:912][839]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-01.45.38:914][839]LogExit: Editor shut down
+[2021.11.17-01.45.38:933][839]LogExit: Transaction tracking system shut down
+[2021.11.17-01.45.40:944][839]LogExit: Object subsystem successfully closed.
+[2021.11.17-01.45.40:962][839]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.17-01.45.40:962][839]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.11.17-01.45.40:962][839]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.11.17-01.45.40:963][839]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2021.11.17-01.45.40:963][839]LogShaderCompilers: Display: ================================================
+[2021.11.17-01.45.41:008][839]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.11.17-01.45.41:255][839]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (878)
+[2021.11.17-01.45.41:255][839]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2021.11.17-01.45.41:255][839]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2021.11.17-01.45.41:255][839]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2021.11.17-01.45.41:256][839]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2021.11.17-01.45.41:256][839]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2021.11.17-01.45.41:256][839]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2021.11.17-01.45.41:276][839]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2021.11.17-01.45.41:276][839]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2021.11.17-01.45.41:276][839]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2021.11.17-01.45.41:278][839]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2021.11.17-01.45.41:279][839]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2021.11.17-01.45.41:280][839]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2021.11.17-01.45.41:282][839]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2021.11.17-01.45.41:282][839]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2021.11.17-01.45.41:282][839]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (848)
+[2021.11.17-01.45.41:284][839]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (846)
+[2021.11.17-01.45.41:285][839]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (844)
+[2021.11.17-01.45.41:288][839]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (842)
+[2021.11.17-01.45.41:290][839]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (840)
+[2021.11.17-01.45.41:293][839]LogModuleManager: Shutting down and abandoning module TakeRecorder (839)
+[2021.11.17-01.45.41:296][839]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (836)
+[2021.11.17-01.45.41:298][839]LogModuleManager: Shutting down and abandoning module TakesCore (834)
+[2021.11.17-01.45.41:298][839]LogModuleManager: Shutting down and abandoning module OpenXRInput (832)
+[2021.11.17-01.45.41:298][839]LogModuleManager: Shutting down and abandoning module GooglePADEditor (830)
+[2021.11.17-01.45.41:298][839]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (828)
+[2021.11.17-01.45.41:298][839]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2021.11.17-01.45.41:300][839]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2021.11.17-01.45.41:300][839]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2021.11.17-01.45.41:300][839]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2021.11.17-01.45.41:300][839]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2021.11.17-01.45.41:300][839]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2021.11.17-01.45.41:301][839]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2021.11.17-01.45.41:303][839]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2021.11.17-01.45.41:305][839]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2021.11.17-01.45.41:306][839]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2021.11.17-01.45.41:307][839]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2021.11.17-01.45.41:308][839]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2021.11.17-01.45.41:309][839]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2021.11.17-01.45.41:309][839]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2021.11.17-01.45.41:309][839]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2021.11.17-01.45.41:312][839]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2021.11.17-01.45.41:313][839]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2021.11.17-01.45.41:316][839]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2021.11.17-01.45.41:321][839]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2021.11.17-01.45.41:321][839]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2021.11.17-01.45.41:321][839]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2021.11.17-01.45.41:321][839]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2021.11.17-01.45.41:322][839]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2021.11.17-01.45.41:322][839]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2021.11.17-01.45.41:322][839]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2021.11.17-01.45.41:326][839]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2021.11.17-01.45.41:328][839]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2021.11.17-01.45.41:332][839]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2021.11.17-01.45.41:333][839]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2021.11.17-01.45.41:334][839]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2021.11.17-01.45.41:334][839]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2021.11.17-01.45.41:335][839]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2021.11.17-01.45.41:337][839]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2021.11.17-01.45.42:141][839]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2021.11.17-01.45.42:141][839]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2021.11.17-01.45.42:141][839]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2021.11.17-01.45.42:141][839]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2021.11.17-01.45.42:141][839]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2021.11.17-01.45.42:146][839]MemoryProfiler: Shutdown
+[2021.11.17-01.45.42:146][839]NetworkingProfiler: Shutdown
+[2021.11.17-01.45.42:146][839]LoadingProfiler: Shutdown
+[2021.11.17-01.45.42:147][839]TimingProfiler: Shutdown
+[2021.11.17-01.45.42:150][839]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2021.11.17-01.45.42:152][839]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2021.11.17-01.45.42:152][839]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2021.11.17-01.45.42:152][839]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2021.11.17-01.45.42:152][839]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2021.11.17-01.45.42:153][839]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2021.11.17-01.45.42:154][839]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2021.11.17-01.45.42:155][839]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2021.11.17-01.45.42:155][839]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2021.11.17-01.45.42:156][839]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2021.11.17-01.45.42:158][839]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2021.11.17-01.45.42:158][839]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2021.11.17-01.45.42:158][839]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2021.11.17-01.45.42:161][839]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2021.11.17-01.45.42:163][839]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2021.11.17-01.45.42:163][839]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2021.11.17-01.45.42:163][839]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2021.11.17-01.45.42:163][839]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2021.11.17-01.45.42:165][839]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2021.11.17-01.45.42:166][839]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2021.11.17-01.45.42:167][839]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2021.11.17-01.45.42:169][839]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2021.11.17-01.45.42:199][839]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2021.11.17-01.45.42:207][839]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2021.11.17-01.45.42:209][839]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2021.11.17-01.45.42:216][839]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2021.11.17-01.45.42:216][839]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2021.11.17-01.45.42:216][839]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2021.11.17-01.45.42:218][839]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2021.11.17-01.45.42:221][839]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2021.11.17-01.45.42:225][839]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2021.11.17-01.45.42:225][839]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2021.11.17-01.45.42:226][839]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2021.11.17-01.45.42:268][839]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2021.11.17-01.45.42:268][839]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2021.11.17-01.45.42:268][839]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2021.11.17-01.45.42:271][839]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2021.11.17-01.45.42:275][839]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2021.11.17-01.45.42:275][839]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2021.11.17-01.45.42:276][839]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2021.11.17-01.45.42:284][839]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2021.11.17-01.45.42:288][839]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2021.11.17-01.45.42:289][839]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2021.11.17-01.45.42:292][839]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2021.11.17-01.45.42:292][839]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2021.11.17-01.45.42:292][839]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2021.11.17-01.45.42:295][839]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2021.11.17-01.45.42:296][839]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2021.11.17-01.45.42:296][839]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2021.11.17-01.45.42:296][839]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2021.11.17-01.45.42:296][839]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2021.11.17-01.45.42:296][839]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2021.11.17-01.45.42:297][839]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2021.11.17-01.45.42:297][839]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2021.11.17-01.45.42:297][839]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2021.11.17-01.45.42:298][839]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2021.11.17-01.45.42:298][839]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2021.11.17-01.45.42:299][839]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2021.11.17-01.45.42:299][839]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2021.11.17-01.45.42:304][839]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2021.11.17-01.45.42:466][839]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2021.11.17-01.45.42:469][839]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2021.11.17-01.45.42:469][839]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2021.11.17-01.45.42:479][839]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2021.11.17-01.45.42:479][839]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2021.11.17-01.45.42:479][839]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2021.11.17-01.45.42:479][839]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2021.11.17-01.45.42:479][839]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2021.11.17-01.45.42:482][839]LogModuleManager: Shutting down and abandoning module TemplateSequence (590)
+[2021.11.17-01.45.42:483][839]LogModuleManager: Shutting down and abandoning module TakeSequencer (588)
+[2021.11.17-01.45.42:483][839]LogModuleManager: Shutting down and abandoning module TakeMovieScene (586)
+[2021.11.17-01.45.42:483][839]LogModuleManager: Shutting down and abandoning module ScreenshotTools (584)
+[2021.11.17-01.45.42:483][839]LogModuleManager: Shutting down and abandoning module SynthesisEditor (582)
+[2021.11.17-01.45.42:483][839]LogModuleManager: Shutting down and abandoning module Synthesis (580)
+[2021.11.17-01.45.42:487][839]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (578)
+[2021.11.17-01.45.42:487][839]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (576)
+[2021.11.17-01.45.42:488][839]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (574)
+[2021.11.17-01.45.42:488][839]LogModuleManager: Shutting down and abandoning module OpenXREditor (572)
+[2021.11.17-01.45.42:489][839]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (570)
+[2021.11.17-01.45.42:490][839]LogModuleManager: Shutting down and abandoning module GooglePAD (568)
+[2021.11.17-01.45.42:490][839]LogModuleManager: Shutting down and abandoning module EditableMesh (566)
+[2021.11.17-01.45.42:491][839]LogModuleManager: Shutting down and abandoning module CableComponent (564)
+[2021.11.17-01.45.42:491][839]LogModuleManager: Shutting down and abandoning module AudioCapture (562)
+[2021.11.17-01.45.42:491][839]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (561)
+[2021.11.17-01.45.42:492][839]LogModuleManager: Shutting down and abandoning module AssetTags (558)
+[2021.11.17-01.45.42:492][839]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (556)
+[2021.11.17-01.45.42:493][839]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2021.11.17-01.45.42:493][839]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2021.11.17-01.45.42:493][839]LogModuleManager: Shutting down and abandoning module AndroidPermission (550)
+[2021.11.17-01.45.42:493][839]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (548)
+[2021.11.17-01.45.42:494][839]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (546)
+[2021.11.17-01.45.42:494][839]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (544)
+[2021.11.17-01.45.42:494][839]LogOpenImageDenoise: OIDN shutting down
+[2021.11.17-01.45.42:494][839]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (542)
+[2021.11.17-01.45.42:494][839]LogModuleManager: Shutting down and abandoning module MotoSynth (540)
+[2021.11.17-01.45.42:494][839]LogModuleManager: Shutting down and abandoning module MeshConversion (538)
+[2021.11.17-01.45.42:496][839]LogModuleManager: Shutting down and abandoning module DynamicMesh (536)
+[2021.11.17-01.45.42:498][839]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (534)
+[2021.11.17-01.45.42:500][839]LogModuleManager: Shutting down and abandoning module GeometricObjects (532)
+[2021.11.17-01.45.42:502][839]LogModuleManager: Shutting down and abandoning module MediaCompositing (530)
+[2021.11.17-01.45.42:502][839]LogModuleManager: Shutting down and abandoning module ImgMedia (528)
+[2021.11.17-01.45.42:502][839]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (526)
+[2021.11.17-01.45.42:502][839]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (525)
+[2021.11.17-01.45.42:502][839]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (522)
+[2021.11.17-01.45.42:502][839]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (520)
+[2021.11.17-01.45.42:502][839]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (518)
+[2021.11.17-01.45.42:503][839]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (516)
+[2021.11.17-01.45.42:503][839]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (514)
+[2021.11.17-01.45.42:503][839]LogModuleManager: Shutting down and abandoning module ChaosNiagara (512)
+[2021.11.17-01.45.42:509][839]LogModuleManager: Shutting down and abandoning module FractureEditor (510)
+[2021.11.17-01.45.42:512][839]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (509)
+[2021.11.17-01.45.42:512][839]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (506)
+[2021.11.17-01.45.42:512][839]LogModuleManager: Shutting down and abandoning module BackChannel (504)
+[2021.11.17-01.45.42:514][839]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (502)
+[2021.11.17-01.45.42:514][839]LogModuleManager: Shutting down and abandoning module AutomationUtils (500)
+[2021.11.17-01.45.42:514][839]LogModuleManager: Shutting down and abandoning module AlembicImporter (498)
+[2021.11.17-01.45.42:514][839]LogModuleManager: Shutting down and abandoning module AlembicLibrary (497)
+[2021.11.17-01.45.42:514][839]LogModuleManager: Shutting down and abandoning module GeometryCache (496)
+[2021.11.17-01.45.42:514][839]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (495)
+[2021.11.17-01.45.42:514][839]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (490)
+[2021.11.17-01.45.42:514][839]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (488)
+[2021.11.17-01.45.42:515][839]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (486)
+[2021.11.17-01.45.42:515][839]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (484)
+[2021.11.17-01.45.42:516][839]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (482)
+[2021.11.17-01.45.42:517][839]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (480)
+[2021.11.17-01.45.42:524][839]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (478)
+[2021.11.17-01.45.42:525][839]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (476)
+[2021.11.17-01.45.42:526][839]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (474)
+[2021.11.17-01.45.42:526][839]LogModuleManager: Shutting down and abandoning module PluginBrowser (472)
+[2021.11.17-01.45.42:531][839]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (470)
+[2021.11.17-01.45.42:534][839]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2021.11.17-01.45.42:536][839]LogModuleManager: Shutting down and abandoning module CurveEditorTools (466)
+[2021.11.17-01.45.42:540][839]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (464)
+[2021.11.17-01.45.42:540][839]LogModuleManager: Shutting down and abandoning module CryptoKeys (462)
+[2021.11.17-01.45.42:540][839]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (460)
+[2021.11.17-01.45.42:541][839]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2021.11.17-01.45.42:541][839]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2021.11.17-01.45.42:541][839]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2021.11.17-01.45.42:545][839]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2021.11.17-01.45.42:545][839]LogModuleManager: Shutting down and abandoning module PluginUtils (450)
+[2021.11.17-01.45.42:546][839]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2021.11.17-01.45.42:550][839]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2021.11.17-01.45.42:560][839]LogModuleManager: Shutting down and abandoning module GitSourceControl (444)
+[2021.11.17-01.45.42:563][839]LogModuleManager: Shutting down and abandoning module SourceControl (443)
+[2021.11.17-01.45.42:564][839]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2021.11.17-01.45.42:564][839]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2021.11.17-01.45.42:564][839]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2021.11.17-01.45.42:564][839]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2021.11.17-01.45.42:564][839]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2021.11.17-01.45.42:564][839]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2021.11.17-01.45.42:564][839]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2021.11.17-01.45.42:564][839]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2021.11.17-01.45.42:566][839]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2021.11.17-01.45.42:567][839]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2021.11.17-01.45.43:030][839]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2021.11.17-01.45.43:030][839]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2021.11.17-01.45.43:037][839]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2021.11.17-01.45.43:042][839]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2021.11.17-01.45.43:043][839]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2021.11.17-01.45.43:045][839]LogModuleManager: Shutting down and abandoning module ActorSequence (410)
+[2021.11.17-01.45.43:045][839]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2021.11.17-01.45.43:045][839]LogModuleManager: Shutting down and abandoning module SoundFields (406)
+[2021.11.17-01.45.43:045][839]LogModuleManager: Shutting down and abandoning module SignificanceManager (404)
+[2021.11.17-01.45.43:045][839]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (402)
+[2021.11.17-01.45.43:046][839]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (400)
+[2021.11.17-01.45.43:046][839]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2021.11.17-01.45.43:046][839]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2021.11.17-01.45.43:047][839]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2021.11.17-01.45.43:047][839]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2021.11.17-01.45.43:149][839]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2021.11.17-01.45.43:251][839]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (386)
+[2021.11.17-01.45.43:251][839]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2021.11.17-01.45.43:251][839]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2021.11.17-01.45.43:251][839]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2021.11.17-01.45.43:251][839]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2021.11.17-01.45.43:251][839]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2021.11.17-01.45.43:252][839]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2021.11.17-01.45.43:254][839]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.11.17-01.45.43:254][839]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2021.11.17-01.45.43:254][839]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2021.11.17-01.45.43:254][839]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2021.11.17-01.45.43:255][839]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2021.11.17-01.45.43:255][839]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2021.11.17-01.45.43:255][839]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2021.11.17-01.45.43:255][839]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2021.11.17-01.45.43:256][839]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2021.11.17-01.45.43:256][839]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2021.11.17-01.45.43:261][839]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2021.11.17-01.45.43:261][839]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2021.11.17-01.45.43:266][839]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2021.11.17-01.45.43:266][839]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2021.11.17-01.45.43:268][839]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2021.11.17-01.45.43:268][839]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2021.11.17-01.45.43:268][839]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2021.11.17-01.45.43:268][839]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2021.11.17-01.45.43:271][839]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2021.11.17-01.45.43:283][839]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2021.11.17-01.45.43:285][839]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2021.11.17-01.45.43:287][839]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2021.11.17-01.45.43:287][839]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2021.11.17-01.45.43:288][839]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2021.11.17-01.45.43:288][839]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2021.11.17-01.45.43:288][839]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2021.11.17-01.45.43:288][839]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2021.11.17-01.45.43:290][839]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2021.11.17-01.45.43:290][839]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (318)
+[2021.11.17-01.45.43:292][839]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2021.11.17-01.45.43:292][839]LogModuleManager: Shutting down and abandoning module GameplayCameras (314)
+[2021.11.17-01.45.43:292][839]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2021.11.17-01.45.43:292][839]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2021.11.17-01.45.43:293][839]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2021.11.17-01.45.43:408][839]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2021.11.17-01.45.43:409][839]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2021.11.17-01.45.43:409][839]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2021.11.17-01.45.43:409][839]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2021.11.17-01.45.43:410][839]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2021.11.17-01.45.43:412][839]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2021.11.17-01.45.43:412][839]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2021.11.17-01.45.43:412][839]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2021.11.17-01.45.43:412][839]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2021.11.17-01.45.43:413][839]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2021.11.17-01.45.43:414][839]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2021.11.17-01.45.43:414][839]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2021.11.17-01.45.43:416][839]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2021.11.17-01.45.43:417][839]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2021.11.17-01.45.43:420][839]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2021.11.17-01.45.43:420][839]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2021.11.17-01.45.43:420][839]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2021.11.17-01.45.43:421][839]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2021.11.17-01.45.43:421][839]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2021.11.17-01.45.43:427][839]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2021.11.17-01.45.43:427][839]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2021.11.17-01.45.43:428][839]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2021.11.17-01.45.43:428][839]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2021.11.17-01.45.43:430][839]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2021.11.17-01.45.43:430][839]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2021.11.17-01.45.43:430][839]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2021.11.17-01.45.43:430][839]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2021.11.17-01.45.43:430][839]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2021.11.17-01.45.43:430][839]LogModuleManager: Shutting down and abandoning module Core (248)
+[2021.11.17-01.45.43:430][839]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2021.11.17-01.45.43:432][839]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2021.11.17-01.45.43:435][839]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2021.11.17-01.45.43:437][839]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2021.11.17-01.45.43:440][839]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2021.11.17-01.45.43:460][839]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2021.11.17-01.45.43:460][839]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2021.11.17-01.45.43:460][839]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2021.11.17-01.45.43:461][839]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2021.11.17-01.45.43:461][839]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2021.11.17-01.45.43:462][839]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2021.11.17-01.45.43:463][839]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2021.11.17-01.45.43:464][839]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2021.11.17-01.45.43:467][839]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2021.11.17-01.45.43:467][839]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2021.11.17-01.45.43:468][839]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2021.11.17-01.45.43:468][839]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2021.11.17-01.45.43:470][839]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2021.11.17-01.45.43:472][839]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2021.11.17-01.45.43:475][839]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2021.11.17-01.45.43:477][839]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2021.11.17-01.45.43:478][839]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2021.11.17-01.45.43:479][839]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2021.11.17-01.45.43:480][839]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2021.11.17-01.45.43:481][839]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2021.11.17-01.45.43:481][839]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2021.11.17-01.45.43:481][839]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2021.11.17-01.45.43:481][839]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2021.11.17-01.45.43:482][839]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2021.11.17-01.45.43:483][839]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2021.11.17-01.45.43:483][839]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2021.11.17-01.45.43:483][839]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2021.11.17-01.45.43:484][839]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2021.11.17-01.45.43:485][839]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2021.11.17-01.45.43:486][839]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2021.11.17-01.45.43:487][839]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2021.11.17-01.45.43:487][839]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2021.11.17-01.45.43:487][839]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2021.11.17-01.45.43:487][839]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2021.11.17-01.45.43:601][839]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2021.11.17-01.45.43:602][839]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2021.11.17-01.45.43:602][839]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2021.11.17-01.45.43:602][839]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2021.11.17-01.45.43:602][839]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2021.11.17-01.45.43:634][839]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2021.11.17-01.45.43:635][839]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2021.11.17-01.45.43:635][839]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2021.11.17-01.45.43:635][839]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2021.11.17-01.45.43:636][839]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2021.11.17-01.45.43:636][839]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2021.11.17-01.45.43:636][839]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2021.11.17-01.45.43:636][839]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2021.11.17-01.45.43:636][839]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2021.11.17-01.45.43:687][839]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2021.11.17-01.45.43:944][839]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2021.11.17-01.45.43:944][839]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2021.11.17-01.45.43:945][839]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2021.11.17-01.45.43:945][839]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2021.11.17-01.45.43:945][839]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2021.11.17-01.45.43:948][839]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2021.11.17-01.45.43:948][839]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2021.11.17-01.45.43:949][839]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2021.11.17-01.45.43:949][839]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2021.11.17-01.45.43:950][839]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2021.11.17-01.45.43:951][839]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2021.11.17-01.45.43:951][839]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2021.11.17-01.45.43:951][839]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2021.11.17-01.45.43:952][839]LogHMD: Freeing OpenVRDLLHandle.
+[2021.11.17-01.45.43:952][839]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2021.11.17-01.45.43:953][839]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2021.11.17-01.45.43:953][839]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.11.17-01.45.43:953][839]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2021.11.17-01.45.43:953][839]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2021.11.17-01.45.43:953][839]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2021.11.17-01.45.43:953][839]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2021.11.17-01.45.43:955][839]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.11.17-01.45.43:955][839]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.11.17-01.45.43:955][839]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2021.11.17-01.45.43:955][839]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.11.17-01.45.43:955][839]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.11.17-01.45.43:958][839]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.11.17-01.45.43:959][839]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.11.17-01.45.44:012][839]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.11.17-01.45.44:012][839]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.11.17-01.45.44:013][839]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6143260C-4F5D-176C-EAC6-FB828401E688%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=61c851cf452cbfb7c2277c94b942a7bd%7C9f7c816660634fa2bc4404859711ff8a%7Ce60dfba3-c882-4f0e-8473-d396e93875fd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.11.17-01.45.44:013][839]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.11.17-01.45.44:032][839]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.11.17-01.45.44:037][839]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.11.17-01.45.44:042][839]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.11.17-01.45.44:044][839]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.11.17-01.45.44:044][839]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.11.17-01.45.44:045][839]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2021.11.17-01.45.44:046][839]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.11.17-01.45.44:047][839]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.11.17-01.45.44:047][839]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.11.17-01.45.44:047][839]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.11.17-01.45.44:047][839]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2021.11.17-01.45.44:047][839]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2021.11.17-01.45.44:047][839]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2021.11.17-01.45.44:048][839]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.11.17-01.45.44:048][839]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.11.17-01.45.44:048][839]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.11.17-01.45.44:048][839]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.11.17-01.45.44:050][839]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.11.17-01.45.44:050][839]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.11.17-01.45.44:050][839]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.11.17-01.45.44:051][839]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.11.17-01.45.44:052][839]LogXGEController: Cleaning working directory: C:/Users/MARTA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.11.17-01.45.44:052][839]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.11.17-01.45.44:053][839]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.11.17-01.45.44:055][839]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.11.17-01.45.44:056][839]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.11.17-01.45.44:057][839]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.11.17-01.45.44:057][839]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.11.17-01.45.44:057][839]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.11.17-01.45.44:063][839]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.11.17-01.45.44:064][839]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.11.17-01.45.44:065][839]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.11.17-01.45.44:066][839]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.11.17-01.45.44:066][839]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.11.17-01.45.44:067][839]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.11.17-01.45.44:067][839]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.11.17-01.45.44:067][839]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.11.17-01.45.44:068][839]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.11.17-01.45.44:068][839]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.11.17-01.45.44:068][839]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.11.17-01.45.44:070][839]LogD3D11RHI: Shutdown
+[2021.11.17-01.45.44:070][839]LogD3D11RHI: CleanupD3DDevice
+[2021.11.17-01.45.44:102][839]LogExit: Exiting.
+[2021.11.17-01.45.44:150][839]Log file closed, 11/17/21 02:45:44
